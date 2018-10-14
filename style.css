@@ -1,0 +1,14 @@
+body{
+  margin:0;
+  padding: 0;
+}
+.call{
+  display: grid;
+  width:80vw;
+  height:30vh;
+  background: #0f0f0f;
+}
+li{
+  padding: 2em;
+  background: red;
+}
